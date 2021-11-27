@@ -1,0 +1,4 @@
+XOR,A,B,D
+AND,A,B,F
+AND,C,D,E
+OR,E,F,G
